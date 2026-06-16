@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Reservas de Aerolínea",
+  "description": "Sistema completo de reservas de una aerolínea con CRUD de clientes, vuelos, tiquetes y reportes interactivos, configurado para conectar con Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
